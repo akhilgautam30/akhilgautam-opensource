@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akhilgautam-opensource
+- 👋 Hi, I’m @akhilgautam
 - 👀 I’m interested in Cloud , Devops, .NET Technologies,
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on AWS, Devops, .NET applications  
